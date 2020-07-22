@@ -1,6 +1,6 @@
 # CHALLENGE 1 - Article
 
-![Design preview for the Article preview component coding challenge](./design/ajaysaraf.jpg)
+![Design preview for the Article preview component coding challenge](ajaysaraf.png)
 
 ## Welcome! 👋
 
